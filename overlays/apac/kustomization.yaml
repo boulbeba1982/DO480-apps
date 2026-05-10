@@ -1,6 +1,6 @@
 kind: Kustomization
 
-resources:
+bases:
   - ../../base
 
 nameSuffix: -apac
